@@ -1,0 +1,16 @@
+# ignore everything
+*
+
+# allow these files
+!.gitignore
+!Gemfile
+!Gemfile.lock
+!_config.yml
+!*.md
+!*.html
+!assets/
+!css/
+!js/
+!_layouts/
+!_includes/
+!_posts/

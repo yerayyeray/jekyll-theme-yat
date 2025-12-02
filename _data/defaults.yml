@@ -1,4 +1,5 @@
 home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
-  banner: "Your image url"
+  heading: "MetalBlog"
+  subheading: "Tu blog perfecto sobre Heavy Metal y Rock"
+  banner: "/assets/images/banners/portada.jpg"
+  favicon: "assets/images/favicon/favicon.ico"
